@@ -1,0 +1,256 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ED Theme Utility Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-30 08:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.1"
+
+#: importer/class-edtu-importer.php:631
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: importer/class-edtu-importer.php:311
+msgid "- Select -"
+msgstr ""
+
+#. Author of the plugin
+msgid "8degreethemes"
+msgstr ""
+
+#: importer/class-edtu-importer.php:1115
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: importer/class-edtu-importer.php:165
+msgid "All done."
+msgstr ""
+
+#. Description of the plugin
+msgid "An ultimate WordPress 8degreethemes demo importer"
+msgstr ""
+
+#: importer/class-edtu-importer.php:300
+msgid "as a new user:"
+msgstr ""
+
+#: importer/class-edtu-importer.php:253
+msgid "Assign Authors"
+msgstr ""
+
+#: importer/class-edtu-importer.php:308
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: importer/class-edtu-importer.php:1131
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: importer/class-edtu-parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: importer/class-edtu-importer.php:269
+msgid "Download and import file attachments"
+msgstr ""
+
+#. Name of the plugin
+msgid "ED Theme Utility Plugin"
+msgstr ""
+
+#: importer/class-edtu-importer.php:361
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: importer/class-edtu-importer.php:505 importer/class-edtu-importer.php:727
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: importer/class-edtu-importer.php:693
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: importer/class-edtu-importer.php:594
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: importer/class-edtu-importer.php:227
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: importer/class-edtu-importer.php:413
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: importer/class-edtu-importer.php:456
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: importer/class-edtu-importer.php:928
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: importer/class-edtu-importer.php:165
+msgid "Have fun!"
+msgstr ""
+
+#: importer/class-edtu-importer.php:1130
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://8degreethemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://8degreethemes.com/wordpress-plugins/"
+msgstr ""
+
+#: importer/class-edtu-importer.php:256
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: importer/class-edtu-importer.php:1205
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#: importer/class-edtu-importer.php:266
+msgid "Import Attachments"
+msgstr ""
+
+#: importer/class-edtu-importer.php:286
+msgid "Import author:"
+msgstr ""
+
+#: importer/class-edtu-importer.php:1108
+msgid "Import WordPress"
+msgstr ""
+
+#: importer/class-edtu-importer.php:941
+msgid "Invalid file type"
+msgstr ""
+
+#: importer/class-edtu-importer.php:865
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: importer/class-edtu-importer.php:858
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: importer/class-edtu-importer.php:310
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: importer/class-edtu-importer.php:297
+msgid "or create new user with login name:"
+msgstr ""
+
+#: importer/class-edtu-importer.php:166
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: importer/class-edtu-importer.php:998
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: importer/class-edtu-importer.php:1009
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: importer/class-edtu-importer.php:985
+msgid "Remote server did not respond"
+msgstr ""
+
+#: importer/class-edtu-importer.php:991
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: importer/class-edtu-importer.php:121 importer/class-edtu-importer.php:130
+#: importer/class-edtu-importer.php:181 importer/class-edtu-importer.php:185
+#: importer/class-edtu-importer.php:194
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: importer/class-edtu-importer.php:273
+msgid "Submit"
+msgstr ""
+
+#: importer/class-edtu-importer.php:186
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: importer/class-edtu-importer.php:122
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: importer/class-edtu-parsers.php:42 importer/class-edtu-parsers.php:72
+#: importer/class-edtu-parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: importer/class-edtu-parsers.php:84 importer/class-edtu-parsers.php:89
+#: importer/class-edtu-parsers.php:306 importer/class-edtu-parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: importer/class-edtu-importer.php:202
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: importer/class-edtu-importer.php:254
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: importer/class-edtu-importer.php:1003
+msgid "Zero size file downloaded"
+msgstr ""
